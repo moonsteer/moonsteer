@@ -1,6 +1,6 @@
 {
   "name": "moonsteer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Moonsteer codes!",
   "main": "index.js",
   "scripts": {
